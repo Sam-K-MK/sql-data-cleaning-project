@@ -1,4 +1,4 @@
-# Portfolio Project: Data Cleaning in SQL
+Alex the Analyst Bootcamp - data cleaning and analysis project 
 
 ## Overview
 This project focuses on data cleaning and transformation using SQL in DBeaver. 
@@ -10,4 +10,4 @@ This project focuses on data cleaning and transformation using SQL in DBeaver.
 
 ## Project Structure
 * `scripts/`: Contains `.sql` files for data cleaning and exploration.
-* `data/`: Raw and cleaned CSV files exported from DBeaver.
+* `data/`: CSV files exported from Alex the Analyst via GitHub.
